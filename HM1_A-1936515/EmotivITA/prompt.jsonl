@@ -1,0 +1,5 @@
+{"prompt": "Leggi attentamente la seguente frase e scegli l'opzione che meglio descrive il livello di {{ dimension }} espresso nel testo. \n\n FRASE: {{ text }} \n\n OPZIONI: {{ choices }}"}
+{"prompt": "Immagina di essere uno psicologo che studia le emozioni umane. Dopo aver letto la seguente frase, identifica il livello di {{ dimension }} che meglio riflette il contenuto emotivo del testo. \n\n FRASE: {{ text }} \n\n OPZIONI: {{ choices }}"}
+{"prompt": "Considerando le emozioni umane, identifica il livello di {{ dimension }} espresso nella seguente frase. \n\n FRASE: {{ text }} \n\n OPZIONI: {{ choices }}"}
+{"prompt": "Analizza attentamente la seguente frase e scegli l'opzione che meglio rappresenta il livello di {{ dimension }} trasmesso dal testo. \n\n FRASE: {{ text }} \n\n OPZIONI: {{ choices }}"}
+{"prompt": "Immagina di essere un ricercatore che analizza le emozioni umane. Sulla base della seguente frase, identifica il livello di {{ dimension }} che meglio rappresenta il contenuto emotivo del testo. \n\n FRASE: {{ text }} \n\n OPZIONI: {{ choices }}"}
